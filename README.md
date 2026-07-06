@@ -6,3 +6,4 @@
 - README.md: 이 파일
 - test.txt: 텍스트 테스트 파일
 - sample.json: JSON 테스트 파일
+test
